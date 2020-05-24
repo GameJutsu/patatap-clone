@@ -1,6 +1,6 @@
 # Patatap-clone
 
-A clone of audio-visual feedback website [Patatap](www.patatap.com) using PaperJS & HowlerJS.
+A clone of audio-visual feedback website [Patatap](https://www.patatap.com) using PaperJS & HowlerJS.
 
 ## Demo
 
